@@ -1,17 +1,15 @@
-### Hi there 👋
+### Hello there! 👋
+### I am Priyanka and I am a computer science undergrad.
 
 <!--
 **thakran14/thakran14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+:computer: I’m currently working on android and data science <br>
+🌱 I’m currently learning frontend. <br>
+:handshake: I’m looking to collaborate on python/java/android projects. <br>
+🤔 I’m looking for help with my portfolio website. <br>
+😄 Pronouns: She/her <br>
+:star: Fun fact: I am a photographer, writer and a quizzer too!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
-[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=radical)]
