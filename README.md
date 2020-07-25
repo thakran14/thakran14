@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
-[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
