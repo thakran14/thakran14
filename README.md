@@ -12,4 +12,4 @@
 :star: Fun fact: I am a photographer, writer and a quizzer too!
 
 
-![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=radical)
+![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=radical&count_private=true)
