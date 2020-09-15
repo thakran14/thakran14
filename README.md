@@ -4,9 +4,9 @@
 <!--
 **thakran14/thakran14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-:computer: I’m currently working on android and data science <br>
+:computer: I’m currently working on data science and data analytics <br>
 🌱 I’m currently learning frontend. <br>
-:handshake: I’m looking to collaborate on python/java/android projects. <br>
+:handshake: I’m looking to collaborate on data science/python/java/android projects. <br>
 🤔 I’m looking for help with my portfolio website. <br>
 😄 Pronouns: She/her <br>
 :star: Fun fact: I am a photographer, writer and a quizzer too!
