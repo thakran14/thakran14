@@ -11,5 +11,6 @@
 😄 Pronouns: She/her <br>
 :star: Fun fact: I am a photographer, writer and a quizzer too!
 
-
-![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=radical&count_private=true)
+![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=highcontrast&count_private=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakran14&theme=chartreuse-dark)
