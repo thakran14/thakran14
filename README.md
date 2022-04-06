@@ -5,11 +5,11 @@
 **thakran14/thakran14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 :computer: I’m currently working on data science and data analytics <br>
-🌱 I’m currently learning machine learning and frontend. <br>
+🌱 I’m currently learning more about frontend and AR/VR <br>
 :handshake: I’m looking to collaborate on data science/python/java projects. <br>
 🤔 I’m looking for help with my portfolio website. <br>
 😄 Pronouns: She/her <br>
-:star: Fun fact: I am a photographer, writer and a quizzer too!
+:star: Fun fact: I am a photographer, an author and a quizzer too!
 
 ![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=thakran14&show_icons=true&theme=highcontrast&count_private=true)
 <br>
